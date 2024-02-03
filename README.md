@@ -4,3 +4,4 @@
 - 3-binary_tree_delete - Delete an entire binary tree
 - 4-binary_tree_is_leaf - Function that checks if node is a leaf
 - 5-binary_tree_is_root.c - Checks if a given node is a root
+- 6-binary_tree_preorder - Function that goes through a binary tree using pre-order traversal
