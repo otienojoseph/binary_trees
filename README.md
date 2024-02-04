@@ -9,3 +9,4 @@
 - 8-binary_tree_postorder - Function that goes through a binary tree using post-order traversal
 - 9-binary_tree_height - Measures the height of a binary tree
 - 10-binary_tree_depth - Measure the depth of a node in a binary tree
+- 11-binary_tree_size - Measure the size of a binary tree
