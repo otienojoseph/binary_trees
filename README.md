@@ -12,3 +12,4 @@
 - 11-binary_tree_size - Measure the size of a binary tree
 - 12-binary_tree_leaves - Function that counts the leaves in a binary tree
 - 13-binary_tree_nodes - Counts all the nodes with atleast 1 child in a binary tree
+- 14-binary_tree_balance - Function that measures the balance factor of a binary tree
