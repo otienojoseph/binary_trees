@@ -14,9 +14,8 @@ int binary_tree_is_full(const binary_tree_t *tree)
 	if (tree->left == NULL && tree->right == NULL)
 		return (1);
 
-	/* if both left and right are not NULL
-	 * and left and right subtrees are full
-	 */
+	/* if both left and right are not NULL */
+	/* and left and right subtrees are full */
 	if ((tree->left) && (tree->right))
 		return (binary_tree_is_full(tree->left) &&
 				binary_tree_is_full(tree->right));
